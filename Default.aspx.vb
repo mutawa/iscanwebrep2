@@ -7,4 +7,8 @@
 
     End Sub
 
+    Protected Sub Button1_Click(ByVal sender As Object, ByVal e As EventArgs) Handles Button1.Click
+        Execute_SQL("insert into users (username,password) values ('pom','do')")
+
+    End Sub
 End Class
