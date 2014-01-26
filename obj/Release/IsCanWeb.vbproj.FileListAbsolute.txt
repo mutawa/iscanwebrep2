@@ -1,0 +1,9 @@
+C:\Users\25163\Documents\Visual Studio 2008\Projects\IsCanWeb\bin\IsCanWeb.dll
+C:\Users\25163\Documents\Visual Studio 2008\Projects\IsCanWeb\bin\IsCanWeb.pdb
+C:\Users\25163\Documents\Visual Studio 2008\Projects\IsCanWeb\bin\IsCanWeb.xml
+C:\Users\25163\Documents\Visual Studio 2008\Projects\IsCanWeb\obj\Release\ResolveAssemblyReference.cache
+C:\Users\25163\Documents\Visual Studio 2008\Projects\IsCanWeb\obj\Release\IsCanWeb.Resources.resources
+C:\Users\25163\Documents\Visual Studio 2008\Projects\IsCanWeb\obj\Release\IsCanWeb.vbproj.GenerateResource.Cache
+C:\Users\25163\Documents\Visual Studio 2008\Projects\IsCanWeb\obj\Release\IsCanWeb.dll
+C:\Users\25163\Documents\Visual Studio 2008\Projects\IsCanWeb\obj\Release\IsCanWeb.xml
+C:\Users\25163\Documents\Visual Studio 2008\Projects\IsCanWeb\obj\Release\IsCanWeb.pdb
