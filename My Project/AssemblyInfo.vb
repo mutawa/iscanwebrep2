@@ -7,10 +7,10 @@ Imports System.Runtime.InteropServices
 ' associated with an assembly.
 
 ' Review the values of the assembly attributes
-<Assembly: AssemblyTitle("IsCanWeb")> 
+<Assembly: AssemblyTitle("iscan_test")> 
 <Assembly: AssemblyDescription("")> 
 <Assembly: AssemblyCompany("Saudi Arabia Basic Industries Corp")> 
-<Assembly: AssemblyProduct("IsCanWeb")> 
+<Assembly: AssemblyProduct("iscan_test")> 
 <Assembly: AssemblyCopyright("Copyright © Saudi Arabia Basic Industries Corp 2014")> 
 <Assembly: AssemblyTrademark("")> 
 
