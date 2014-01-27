@@ -6,12 +6,13 @@
 <head runat="server">
     <title>Untitled Page</title>
     <link href="iscan.css" rel="stylesheet" type="text/css" />
+    <script src="jquery.js" type="text/javascript" language="javascript"></script>
+    <script src="iscan.js" type="text/javascript" language="javascript"></script>
 </head>
 <body>
     <form id="form1" runat="server">
-    <div>
-    
-        ok</div>
+    Count: <div id="count">ok</div>
+    <br />
     <asp:GridView ID="GridView1" runat="server">
     </asp:GridView>
     <asp:Button ID="Button1" CssClass="btn" runat="server" Text="Increase" />
