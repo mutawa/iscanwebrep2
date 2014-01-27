@@ -4,7 +4,7 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml" >
 <head runat="server">
-    <title>Untitled Page</title>
+    <title>Ahmad</title>
     <link href="iscan.css" rel="stylesheet" type="text/css" />
     <script src="jquery.js" type="text/javascript" language="javascript"></script>
     <script src="iscan.js" type="text/javascript" language="javascript"></script>
@@ -15,7 +15,9 @@
     <br />
     <asp:GridView ID="GridView1" runat="server">
     </asp:GridView>
-    <asp:Button ID="Button1" CssClass="btn" runat="server" Text="Increase" />
+    <Button ID="duplicate" Class="btn"  >Duplicate</Button>
+    <Button ID="delete" Class="btn"  >Delete</Button>
+    <Button ID="addone" Class="btn" >Add One</Button>
     </form>
 </body>
 </html>
