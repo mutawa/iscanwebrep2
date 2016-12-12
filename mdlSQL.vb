@@ -202,7 +202,7 @@ Module mdlSQL
                 Dim cont As String = row.Item(j).ToString
                 If cont.Contains("ID-0") Then
                     Dim id As Integer = Val(cont.Substring(3))
-                    cont = "<a href='http://hd-jhd-ims-1.sabiccorp.sabic.com/View.aspx?id=" & id.ToString & "'>" + cont + "</a>"
+    cont = "<a href='http://hd-jhd-ims-1.mycompany.com/View.aspx?id=" & id.ToString & "'>" + cont + "</a>"
                 End If
                 reply &= "<td style='border:1px solid black;'>" + cont + "</td>"
             Next
